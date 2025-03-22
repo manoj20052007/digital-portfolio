@@ -43,5 +43,5 @@ Follow the following steps to get development environment running.
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:GOkuljaf/polite-sheep-7319.git
+ git@github.com:manoj20052007/digital-portfolio.git
   ```
