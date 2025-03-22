@@ -16,10 +16,10 @@ Version 2 Progress: 50%
 
 
 ## Home Page
-![portfolio](https://github.com/manoj20052007/assets/Capture 1.PNG)
+![portfolio](https://github.com/manoj20052007/assets/Capture1.PNG)
 
 ## contact Page
-![portfolio](https://github.com/manoj20052007/assets/Capture 2.PNG)
+![portfolio](https://github.com/manoj20052007/assets/Capture2.PNG)
 
 This is a portfolio website which specialize to know more about me. The website provides my resume,about my skills and about my contact related design.
 
