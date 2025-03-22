@@ -16,7 +16,7 @@ Version 2 Progress: 50%
 
 
 ## Home Page
-![portfolio](https://github.com/manoj20052007/assets/Capture1.PNG)
+![portfolio](https://github.com/manoj20052007/assets/Capture 1.PNG)
 
 ## contact Page
 ![portfolio](https://github.com/manoj20052007/assets/Capture2.PNG)
