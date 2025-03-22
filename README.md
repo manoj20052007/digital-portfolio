@@ -39,8 +39,3 @@ Follow the following steps to get development environment running.
   ```bash
   gh repo clone manoj20052007/digital-portfolio 
   ```
-  _OR USING SSH_
-  git@github.com:manoj20052007/digital-portfolio.git
-  ```bash
- git@github.com:manoj20052007/digital-portfolio.git
-  ```
