@@ -37,7 +37,7 @@ Follow the following steps to get development environment running.
 * Clone repository from GitHub
 
   ```bash
-  git clone https://github.com/GOkuljaf/polite-sheep-7319.git
+  gh repo clone manoj20052007/digital-portfolio
   ```
 
    _OR USING SSH_
